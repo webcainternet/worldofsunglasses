@@ -1,4 +1,4 @@
-<div style="width: 1170px; text-align: center; margin: auto; padding-top: 30px;">
+<div style="width: 1000px; text-align: center; margin: auto; padding-top: 30px;">
 	<div style="float: left; text-transform: uppercase;">Formas de pagamento:</div><br>
 	<img src="/image/pagseguro-line.png" style="width: 100%;" width="100%">
 </div>
@@ -12,7 +12,7 @@
 	</div>
 	<?php } ?>
   <div class="container">
-	<div class="row">
+	<div class="row" style="margin-left: 15px; margin-right: 15px;">
 		<div class="col-sm-3">
 		<?php if ($informations) { ?>
 			<div class="footer_box">
@@ -58,7 +58,7 @@
 			</div>
 		</div>
 			
-
+		<div style="margin-left: 15px; margin-right: 15px;">
 			<div style="width: 60%; padding-top: 40px; float: left;">
 				<?php echo $powered; ?><!-- [[%FOOTER_LINK]] --> 
 		  	</div>
@@ -77,6 +77,7 @@
 					<img src="https://ssl.comodo.com/images/comodo_secure_seal_76x26_transp.png" alt="SSL" width="76" height="26" style="border: 0px;">
 				<span style="font-weight:bold; font-size:7pt">SSL</span></a>
 		  	</div>
+	  	</div>
 	</div>
 
 
