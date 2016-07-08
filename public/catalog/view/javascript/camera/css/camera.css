@@ -216,7 +216,7 @@
   transition: 0.3s color ease;
 }
 .camera_prev:hover i, .camera_next:hover i {
-  color: #1571d6;
+  color: #e4b969;
 }
 @media (max-width: 767px) {
   .camera_prev, .camera_next {

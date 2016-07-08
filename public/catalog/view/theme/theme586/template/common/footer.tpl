@@ -1,3 +1,8 @@
+<div style="width: 1170px; text-align: center; margin: auto; padding-top: 30px;">
+	<div style="float: left; text-transform: uppercase;">Formas de pagamento:</div><br>
+	<img src="/image/pagseguro-line.png" style="width: 100%;" width="100%">
+</div>
+
 <footer>
 	<?php if ($footer_top) { ?>
 	<div class="footer">
@@ -52,11 +57,31 @@
 				</ul>
 			</div>
 		</div>
+			
+
+			<div style="width: 60%; padding-top: 40px; float: left;">
+				<?php echo $powered; ?><!-- [[%FOOTER_LINK]] --> 
+		  	</div>
+
+		  	<div style="width: 40%; padding-top: 30px; float: right; text-align: right;">
+				
+				<a href="https://lojavirtual.digital/" target="_blank">
+						<img style="background-color: #FFF; border: 0px; height: 40px; margin-right: 20px; padding: 5px; border: solid 1px #EFD6B3;" src="/image/LOGO-LOJAVIRTUAL-300px.png" alt="Loja Virtual .digital" height="40">
+				</a>
+
+				<a href="http://pagseguro.uol.com.br" target="_blank">
+					<img src="/image/pagseguro.png" alt="PagSeguro" height="26" style="border: 0px; margin-right: 20px; height: 26px;">
+				</a>
+
+				<a href="https://ssl.comodo.com" target="_blank">
+					<img src="https://ssl.comodo.com/images/comodo_secure_seal_76x26_transp.png" alt="SSL" width="76" height="26" style="border: 0px;">
+				<span style="font-weight:bold; font-size:7pt">SSL</span></a>
+		  	</div>
 	</div>
+
+
   </div>
-  <div class="copyright">
-	<?php echo $powered; ?><!-- [[%FOOTER_LINK]] --> 
-  </div>
+
 </footer>
 <script src="catalog/view/theme/<?php echo $theme_path; ?>/js/livesearch.js" type="text/javascript"></script>
 <script src="catalog/view/theme/<?php echo $theme_path; ?>/js/script.js" type="text/javascript"></script>

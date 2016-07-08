@@ -20,7 +20,7 @@ aside .box.category {
   line-height: 20px;
   text-transform: uppercase;
   display: block;
-  color: #8c95a4;
+  color: #333;
   line-height: 20px;
   padding: 13px 50px 12px 59px;
   margin-bottom: 5px;
@@ -38,10 +38,10 @@ aside .box.category {
   transition: .3s color ease;
 }
 .box.category .category_menu > li > a:hover {
-  color: #1571d6;
+  color: #e4b969;
 }
 .box.category .category_menu > li > a:hover.children:after {
-  color: #1571d6;
+  color: #e4b969;
 }
 .box.category .category_menu > li:active > ul, .box.category .category_menu > li:hover > ul {
   opacity: 1;
@@ -133,7 +133,7 @@ aside .box.category {
 }
 .box.category .category_menu > li > ul > li a:hover {
   color: #fff;
-  background: #1571d6;
+  background: #e4b969;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .box.category .category_menu > li > ul {
