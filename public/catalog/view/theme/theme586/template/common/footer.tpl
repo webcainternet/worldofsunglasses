@@ -59,11 +59,11 @@
 		</div>
 			
 		<div style="margin-left: 15px; margin-right: 15px;">
-			<div style="width: 60%; padding-top: 40px; float: left;">
+			<div style="width: 55%; padding-top: 40px; float: left;">
 				<?php echo $powered; ?><!-- [[%FOOTER_LINK]] --> 
 		  	</div>
 
-		  	<div style="width: 40%; padding-top: 30px; float: right; text-align: right;">
+		  	<div style="width: 40%; padding-top: 30px; padding-right: 30px; float: left; text-align: right;">
 				
 				<a href="https://lojavirtual.digital/" target="_blank">
 						<img style="background-color: #FFF; border: 0px; height: 40px; margin-right: 20px; padding: 5px; border: solid 1px #EFD6B3;" src="/image/LOGO-LOJAVIRTUAL-300px.png" alt="Loja Virtual .digital" height="40">
