@@ -1239,7 +1239,7 @@ body[class*="information-"] .header .nav-list, body[class="account-return-add"] 
   top: 22px;
 }
 .cart > button:hover i, .cart > button:hover strong, .cart > button:hover span, .cart > button:hover:after, .cart.open > button i, .cart.open > button strong, .cart.open > button span, .cart.open > button:after {
-  color: #f9ed2c;
+  color: #333;
 }
 .cart.open > button:after {
   content: '\e073';
