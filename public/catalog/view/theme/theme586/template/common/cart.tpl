@@ -2,7 +2,7 @@
 <div id="cart" class="cart">
 	<button type="button" data-toggle="dropdown" data-loading-text="<?php echo $text_loading; ?>" class="dropdown-toggle">
 		<i class="material-design-shopping232"></i> 
-		<strong><?php echo $text_shopping_cart; ?></strong>
+		<strong>Meu carrinho</strong>
 		<span id="cart-total" class="cart-total"><?php echo $text_items; ?></span>
 	</button>
   <ul class="dropdown-menu pull-right">

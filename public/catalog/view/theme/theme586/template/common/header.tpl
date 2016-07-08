@@ -249,15 +249,7 @@
   								<?php } ?>
   								<li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
   								<li><a href="<?php echo $sitemap; ?>"><?php echo $text_sitemap; ?></a></li>
-  								<li><a href="<?php echo $forgotten; ?>"><?php echo $text_forgotten; ?></a></li>
-  								<li><a href="<?php echo $address; ?>"><?php echo $text_address; ?></a></li>
-  								<li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
-  								<li><a href="<?php echo $download; ?>"><?php echo $text_download; ?></a></li>
-  								<li><a href="<?php echo $reward; ?>"><?php echo $text_reward; ?></a></li>
-  								<li><a href="<?php echo $return; ?>"><?php echo $text_return; ?></a></li>
-  								<li><a href="<?php echo $transaction; ?>"><?php echo $text_transactions; ?></a></li>
-  								<li><a href="<?php echo $newsletter; ?>"><?php echo $text_newsletter; ?></a></li>
-  								<li><a href="<?php echo $recurring; ?>"><?php echo $text_recurring; ?></a></li>
+  								
   							</ul>
 
   						</header>
