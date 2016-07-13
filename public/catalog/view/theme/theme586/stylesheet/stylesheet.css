@@ -572,6 +572,8 @@ td .price, .price b {
   width: 100%;
 }
 .header .social-list {
+  /* *** WEBCA *** */
+  display: none;
   margin-left: 62px;
 }
 .header .social-list > li {
