@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://worldofsunglasses.homolog.lojavirtual.digital/');
+define('HTTP_SERVER', 'http://superiorboutique.com.br/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://worldofsunglasses.homolog.lojavirtual.digital/');
+define('HTTPS_SERVER', 'http://superiorboutique.com.br/');
 
 // DIR
 define('DIR_APPLICATION', '/srv/httpd/worldofsunglasses.com.br/worldofsunglasses/public/catalog/');

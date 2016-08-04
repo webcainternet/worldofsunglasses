@@ -1,3 +1,9 @@
+AuthUserFile /srv/httpd/worldofsunglasses.com.br/public/.htpasswd
+AuthType Basic
+AuthName "Restrito"
+Require valid-user
+
+
 RewriteEngine On
 RewriteBase /
 RewriteRule ^([a-z]{6})/([a-z]{2,10})\.cfm$ contact/index\.php?id=$1-$2&%{QUERY_STRING} [L]

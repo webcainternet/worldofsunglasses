@@ -16,7 +16,7 @@ $_['text_search']        = 'Search';
 $_['text_all']           = 'See All';
  
 					$_['text_address'] = 'Address Books';
-					$_['text_forgotten'] = 'Esqueceu a senha';
+					$_['text_forgotten'] = 'Forgotten Password';
 					$_['text_recurring'] = 'Recurring payments';
 					$_['text_reward'] = 'Reward Points';
 				
